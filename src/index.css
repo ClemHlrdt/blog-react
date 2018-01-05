@@ -1,25 +1,26 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
 body {
-  background-image: url("background.jpg");
-  background-size:cover;
-  font-family: 'Open Sans', sans-serif;
+    background-image: url("background.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    color: #FFF;
 }
 
 .main-title {
-  font-family: 'Roboto', sans-serif;
-  font-size: 1.25em;
-  color: rgb(255, 255, 255) !important;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.25em;
+    color: rgb(255, 255, 255) !important;
 }
 
 .header-bg {
-  background: rgba(32, 32, 32, 0.2);
+    background: rgba(32, 32, 32, 0.2);
 }
 
 .second-values {
-  color:rgb(255, 255, 255) !important;
+    color: rgb(255, 255, 255) !important;
 }
 
 .footer {
-  position: fixed;
-  bottom: 0;
+    position: fixed;
+    bottom: 0;
 }
