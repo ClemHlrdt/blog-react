@@ -10,12 +10,6 @@ export default class Footer extends React.Component {
     
         // This binding is necessary to make `this` work in the callback
         this.handleClick = this.handleClick.bind(this);
-        let style1 = {
-            color: "blue",
-        };
-        let style2 = {
-            color: "red",
-        };
       }
 
       handleClick() {
